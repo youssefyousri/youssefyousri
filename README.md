@@ -3,7 +3,7 @@
 
 <hr>
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Youssef Yousri - Data Analyst">
+  <img src="./banner.png" width="100%" alt="businessman-front-city-skyline-with-charts-graphs.jpg">
 </p>
 
 <h3 align="left">About</h3>
