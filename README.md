@@ -66,9 +66,7 @@ I'm a Data Analysis learner focused on working with data to discover meaningful 
 
 <p>
 - 📈 <b>Sales Data Analysis</b> — Data cleaning, analysis, visualization, and Power BI dashboard<br>
-- ⚽ <b>FIFA Data Analysis</b> — Exploring and analyzing FIFA data<br>
-- 🚨 <b>Crime Data Analysis</b> — Exploring crime patterns and trends<br>
-- 🏠 <b>House Price Prediction</b> — Exploring housing data and building a prediction project<br>
+- 📊 <b>Digital Marketing Data Analysis</b> — Analyzing marketing campaign performance and generating actionable insights<br>
 - ☎️ <b>Call Center Analysis</b> — Analyzing call center performance and KPIs
 </p>
 
