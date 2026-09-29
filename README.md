@@ -107,15 +107,14 @@ I'm building a practical portfolio in Data Analysis and continuously improving m
 <hr>
 
 <h3 align="left">GitHub Stats:</h3>
-
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Youssef-yousri&show_icons=true&locale=en" alt="Youssef-yousri"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=youssefyousri&show_icons=true&locale=en" alt="youssefyousri"/>
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-yousri" alt="Youssef-yousri"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefyousri" alt="youssefyousri"/>
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-yousri&show_icons=true&locale=en&layout=compact" alt="Youssef-yousri"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefyousri&show_icons=true&locale=en&layout=compact" alt="youssefyousri"/>
 </p>
