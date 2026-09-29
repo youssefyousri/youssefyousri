@@ -1,8 +1,32 @@
- <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0F766E&height=200&section=header&text=Data%20Analyst&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=68&descSize=18&descColor=CBD5E1"
-    width="100%"
-  />
+<p align="center">
+  <svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0F172A"/>
+        <stop offset="50%" stop-color="#1E293B"/>
+        <stop offset="100%" stop-color="#0F766E"/>
+      </linearGradient>
+    </defs>
+
+    <rect width="1000" height="200" rx="20" fill="url(#bg)"/>
+
+    <text x="500" y="85"
+          text-anchor="middle"
+          fill="white"
+          font-family="Arial, sans-serif"
+          font-size="42"
+          font-weight="bold">
+      Hello &lt;Data Minds/&gt; 👋
+    </text>
+
+    <text x="500" y="130"
+          text-anchor="middle"
+          fill="#CBD5E1"
+          font-family="Arial, sans-serif"
+          font-size="21">
+      Welcome to my GitHub Profile 💻
+    </text>
+  </svg>
 </p>
 
 <h1 align="center">Hi 👋, I'm Youssef Yousri</h1>
