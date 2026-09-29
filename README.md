@@ -1,34 +1,6 @@
 <p align="center">
-  <svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0F172A"/>
-        <stop offset="50%" stop-color="#1E293B"/>
-        <stop offset="100%" stop-color="#0F766E"/>
-      </linearGradient>
-    </defs>
-
-    <rect width="1000" height="200" rx="20" fill="url(#bg)"/>
-
-    <text x="500" y="85"
-          text-anchor="middle"
-          fill="white"
-          font-family="Arial, sans-serif"
-          font-size="42"
-          font-weight="bold">
-      Hello &lt;Data Minds/&gt; 👋
-    </text>
-
-    <text x="500" y="130"
-          text-anchor="middle"
-          fill="#CBD5E1"
-          font-family="Arial, sans-serif"
-          font-size="21">
-      Welcome to my GitHub Profile 💻
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" alt="Hello Data Analysts" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Youssef Yousri</h1>
 <h3 align="center">Data Analyst | Python, SQL, Excel & Power BI</h3>
 
