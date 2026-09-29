@@ -5,8 +5,7 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="https://github.com/youssefyousri/youssefyousri/blob/main/path-digital-tR0jvlsmCuQ-unsplash.jpg?raw=true">
 </p> -->
-
-![Profile Image]([path-digital-tR0jvlsmCuQ-unsplash.jpg](https://github.com/youssefyousri/youssefyousri/blob/main/businessman-front-city-skyline-with-charts-graphs.jpg?raw=true))
+![Profile Image](path-digital-tR0jvlsmCuQ-unsplash.jpg)
 <h3 align="left">About</h3>
 <p>
 I'm a Data Analysis learner focused on working with data to discover meaningful insights through cleaning, analysis, and visualization.
