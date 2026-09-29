@@ -2,6 +2,9 @@
 <h3 align="center">Data Analyst | Python, SQL, Excel & Power BI</h3>
 
 <hr>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Youssef Yousri - Data Analyst">
+</p>
 
 <h3 align="left">About</h3>
 <p>
