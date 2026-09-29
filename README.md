@@ -72,7 +72,7 @@ I'm a Data Analysis learner focused on working with data to discover meaningful 
 
 <p>
 💻 All of my projects are available on 
-<a href="https://github.com/Youssef-yousri"><b>GitHub</b></a>
+<a href="https://github.com/youssefyousri"><b>GitHub</b></a>
 </p>
 
 <hr>
@@ -99,7 +99,7 @@ I'm building a practical portfolio in Data Analysis and continuously improving m
 <h3 align="left">Connect with me:</h3>
 
 <p>
-<a href="https://github.com/Youssef-yousri">
+<a href="https://github.com/youssefyousri">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
