@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,100:0F766E&text=Hello%20%3CData%20Minds%2F%3E%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&desc=Welcome%20to%20my%20GitHub%20Profile%20%F0%9F%92%BB&descSize=20&descColor=CBD5E1&fontAlignY=40&descAlignY=65" width="100%">
-</p>
-<!-- <p align="center">
+ <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0F766E&height=200&section=header&text=Data%20Analyst&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=68&descSize=18&descColor=CBD5E1"
     width="100%"
   />
-</p> -->
+</p>
 
 <h1 align="center">Hi 👋, I'm Youssef Yousri</h1>
 <h3 align="center">Data Analyst | Python, SQL, Excel & Power BI</h3>
