@@ -1,5 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" alt="Hello Data Analysts" />
+</p> -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0F766E&height=200&section=header&text=Data%20Analyst&fontSize=52&fontColor=FFFFFF&fontAlignY=45&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=68&descSize=18&descColor=CBD5E1"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Youssef Yousri</h1>
