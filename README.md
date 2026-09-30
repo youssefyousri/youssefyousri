@@ -9,7 +9,8 @@
   <img src="./banner.png" width="100%" alt="https://github.com/youssefyousri/youssefyousri/blob/main/path-digital-tR0jvlsmCuQ-unsplash.jpg?raw=true">
 </p> -->
 
-![Image](https://github.com/youssefyousri/youssefyousri/blob/main/path-digital-tR0jvlsmCuQ-unsplash.jpg?raw=true)
+![Header Banner](https://github.com/youssefyousri/youssefyousri/blob/main/Gemini_Generated_Image_6l6e456l6e456l6e.jpg?raw=true)
+
 <h3 align="left">About</h3>
 <p>
 I'm a Data Analysis learner focused on working with data to discover meaningful insights through cleaning, analysis, and visualization.
