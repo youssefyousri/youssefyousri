@@ -9,7 +9,7 @@
   <img src="./banner.png" width="100%" alt="https://github.com/youssefyousri/youssefyousri/blob/main/path-digital-tR0jvlsmCuQ-unsplash.jpg?raw=true">
 </p> -->
 
-![Header Banner](https://github.com/youssefyousri/youssefyousri/blob/main/Gemini_Generated_Image_6l6e456l6e456l6e.jpg?raw=true)
+![Header Banner](https://github.com/youssefyousri/youssefyousri/blob/main/Gemini_Generated_Image_69iurm69iurm69iu.jpg?raw=true)
 
 <h3 align="left">About</h3>
 <p>
