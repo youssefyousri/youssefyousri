@@ -1,5 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" alt="Hello Data Analysts" />
+</p> -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Hello+%3CData+Analysts%2F%3E+%F0%9F%91%8B;Welcome+to+my+Data+Analysis+Profile+%F0%9F%93%8A" alt="Hello Data Analysts" />
+  </picture>
 </p>
 <h1 align="center">Hi 👋, I'm Youssef Yousri</h1>
 <h3 align="center">Data Analyst | Python, SQL, Excel & Power BI</h3>
