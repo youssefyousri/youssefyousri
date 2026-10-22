@@ -81,11 +81,11 @@ I'm a Data Analysis learner focused on working with data to discover meaningful 
 <h3 align="left"><a href="https://github.com/youssefyousri?tab=repositories">📂 Projects</h3>
 
 <p>
-  - 📈 <b><a href="https://github.com/youssefyousri/Sales-Data-Exploration-with-SQL-Server">Sales Data Analysis (SQL Server)</a></b> — Analyzing sales data using SQL Server to explore revenue by category, region, customers, and payment methods.<br><br>
-  - 📊 <b><a href="https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights">Sales Performance Analysis</a></b> — Analyzing sales performance and generating business insights using Python.<br><br>
-  - 📣 <b><a href="https://github.com/youssefyousri/Digital-Marketing-Data-Analysis">Digital Marketing Data Analysis</a></b> — Analyzing marketing campaign performance, profitability, and customer behavior to generate actionable insights.<br><br>
-  - ☎️ <b><a href="https://github.com/youssefyousri/Salla_Call_Center-Data-Analysis">Salla Call Center Performance Analysis</a></b> — Analyzing call volume, abandoned calls, service KPIs, and agent performance using SQL, Power BI, and Excel.<br><br>
-  - 📈 <b><a href="https://github.com/youssefyousri/Sales-Data-Analysis">Sales Data Analysis (Python & Power BI)</a></b> — Cleaning and analyzing sales data, generating business insights, and building an interactive Power BI dashboard.
+📈 <b><a href="https://github.com/youssefyousri/Sales-Data-Exploration-with-SQL-Server">Sales Data Analysis (SQL Server)</a></b> — Analyzing sales data using SQL Server to explore revenue by category, region, customers, and payment methods.<br><br>
+📊 <b><a href="https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights">Sales Performance Analysis</a></b> — Analyzing sales performance and generating business insights using Python.<br><br>
+📣 <b><a href="https://github.com/youssefyousri/Digital-Marketing-Data-Analysis">Digital Marketing Data Analysis</a></b> — Analyzing marketing campaign performance, profitability, and customer behavior to generate actionable insights.<br><br>
+☎️ <b><a href="https://github.com/youssefyousri/Salla_Call_Center-Data-Analysis">Salla Call Center Performance Analysis</a></b> — Analyzing call volume, abandoned calls, service KPIs, and agent performance using SQL, Power BI, and Excel.<br><br>
+📈 <b><a href="https://github.com/youssefyousri/Sales-Data-Analysis">Sales Data Analysis (Python & Power BI)</a></b> — Cleaning and analyzing sales data, generating business insights, and building an interactive Power BI dashboard.
 </p>
 
 
