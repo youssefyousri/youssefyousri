@@ -82,11 +82,11 @@ I'm a Data Analysis learner focused on working with data to discover meaningful 
 
 
 <ul>
-  <li>📈 <a href="https://github.com/youssefyousri/Sales-Data-Analysis">Sales Data Analysis</a> — Sales insights and dashboard</li>
-  <li>📊 <a href="https://github.com/youssefyousri/Digital-Marketing-Data-Analysis">Digital Marketing Analysis</a> — Campaign performance analysis</li>
-  <li>☎️ <a href="https://github.com/youssefyousri/Salla_Call_Center-Data-Analysis">Salla Call Center Analysis</a> — Call center KPIs and performance</li>
-  <li>📉 <a href="https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights">Sales Performance Analysis</a> — Sales trends and business insights</li>
-  <li>🗄️ <a href="https://github.com/youssefyousri/Sales-Data-Exploration-with-SQL-Server">SQL Server Sales Analysis</a> — SQL queries and sales analysis</li>
+  <li>📈 <a href="https://github.com/youssefyousri/Sales-Data-Analysis"><b>Sales Data Analysis</b></a> — Data cleaning, business insights, and Power BI dashboard.</li>
+  <li>📊 <a href="https://github.com/youssefyousri/Digital-Marketing-Data-Analysis"><b>Digital Marketing Analysis</b></a> — Campaign performance, profitability, and customer behavior.</li>
+  <li>☎️ <a href="https://github.com/youssefyousri/Salla_Call_Center-Data-Analysis"><b>Salla Call Center Analysis</b></a> — Call center KPIs, service performance, and agent analysis.</li>
+  <li>📉 <a href="https://github.com/youssefyousri/Sales-Performance-Analysis-Business-Insights"><b>Sales Performance Analysis</b></a> — Sales trends, product performance, and business insights.</li>
+  <li>🗄️ <a href="https://github.com/youssefyousri/Sales-Data-Exploration-with-SQL-Server"><b>SQL Server Sales Analysis</b></a> — SQL queries to analyze sales by category, region, and customer.</li>
 </ul>
 
 
